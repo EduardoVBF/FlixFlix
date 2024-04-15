@@ -35,8 +35,9 @@ O código-fonte React está corretamente versionado utilizando Git. Certifique-s
 
 Screenshots
 
+Captura de tela Home.png
 
 
-Acesso Online
-*********************
+# Acesso Online
+https://flixflix.netlify.app
 
